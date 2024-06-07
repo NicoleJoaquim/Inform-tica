@@ -37,6 +37,6 @@ Apresentação pessoal
 ![Capturar 7](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/760848f7-6868-4839-9b09-649bf9a39a5f)
 
 # Power Apps
-Criação de aplicativo
+
 ![image](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/d3806264-549f-40f8-b7fe-4747a67b74e9)
 
