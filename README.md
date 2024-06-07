@@ -28,7 +28,7 @@ Gráfico utlizando fórmulas de SOMA, SOMASE e etc.
 ![execel 2](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/eeefc1c3-606d-4a22-82b5-b07ac4273039)
 ![Capturar 3](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/85f8e083-9452-4460-a0ad-d87046b0077b)
 
-#Power Point
+# Power Point
 ![apresentação 1](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/4211f201-2ff3-45cc-9ce5-75a49ba59ea2)
 ![Capturar 2](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/63340e34-9325-4a90-9b23-fd6c4525d639)
 ![Capturar 3](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/a2b19df9-3558-479c-9b2d-951d5ec39472)
@@ -36,3 +36,7 @@ Gráfico utlizando fórmulas de SOMA, SOMASE e etc.
 ![Capturar 5](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/49c5b505-8817-4355-89b5-68ab04266d45)
 ![Capturar 6](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/c91b2673-0146-4b7e-aa66-fc8f7e8703ee)
 ![Capturar 7](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/760848f7-6868-4839-9b09-649bf9a39a5f)
+
+# Power Apps
+![image](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/d3806264-549f-40f8-b7fe-4747a67b74e9)
+
