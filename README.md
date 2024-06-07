@@ -1,7 +1,7 @@
 # Informatica
 # 🎯 Objetivo do Projeto
 
-Explorar tecnologias da informação e suas diferentes funções.
+Explorar gráficos e aplicativos em diferentes funções 
 
 ## 💻 Tecnologias Utilizadas
 
@@ -27,6 +27,7 @@ Gráfico utlizando fórmulas de SOMA, SOMASE e etc.
 ![Capturar 3](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/85f8e083-9452-4460-a0ad-d87046b0077b)
 
 # Power Point
+Apresentação pessoal 
 ![apresentação 1](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/4211f201-2ff3-45cc-9ce5-75a49ba59ea2)
 ![Capturar 2](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/63340e34-9325-4a90-9b23-fd6c4525d639)
 ![Capturar 3](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/a2b19df9-3558-479c-9b2d-951d5ec39472)
@@ -36,5 +37,6 @@ Gráfico utlizando fórmulas de SOMA, SOMASE e etc.
 ![Capturar 7](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/760848f7-6868-4839-9b09-649bf9a39a5f)
 
 # Power Apps
+Criação de aplicativo
 ![image](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/d3806264-549f-40f8-b7fe-4747a67b74e9)
 
