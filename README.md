@@ -1,4 +1,4 @@
-# Informatica
+# 1º semestre informática
 # 🎯 Objetivo do Projeto
 
 Explorar gráficos e aplicativos em diferentes funções 
