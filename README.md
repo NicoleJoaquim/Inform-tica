@@ -21,7 +21,8 @@ Explorar gráficos e aplicativos em diferentes funções
 # Dashboard Acidentes Aeronáuticos
 > Apresentação de Coleta de Dados pelo Power BI
 ![Capturar](https://github.com/isabelacardd/PROVA-INF/assets/163482917/2fe7bcf0-5166-4085-9822-bbd69897c1ab)
-> # Excel
+
+ # Excel
 
 Gráfico utlizando fórmulas de SOMA, SOMASE e etc.
 ![excel](https://github.com/NicoleJoaquim/Inform-tica/assets/163483732/83a2e2b9-6749-4e8b-9f66-bc3711174d28)
